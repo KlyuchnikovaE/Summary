@@ -1,0 +1,640 @@
+.image{
+box-sizing: border-box;
+
+position: absolute;
+width: 233px;
+height: 232px;
+left: 20px;
+top: 28px;
+
+background: url("../images/foto1.jpg");
+border:1px solide #000000;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 14px;
+}
+.fon{
+    position: relative;
+    width: 964px;
+    height: 1079px;
+
+    background: #fff;
+}
+.p1{
+    position:absolute;
+    width: 347px;
+    height: 24px;
+    left: 464px;
+    top: 50px;
+
+    font-family: 'Marvel';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-decoration-color: underline;
+
+    color: #000000;
+}
+.p2{
+    position:absolute;
+    width: 141px;
+    height: 17px;
+    left: 370px;
+    top: 87px;
+
+    font-family: 'Mako';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+    text-decoration-color: underline;
+
+    color: #000000;
+
+    mix-blend-mode: darken;
+}
+.p3{
+    position:absolute;
+    width: 174px;
+    height: 21px;
+    left: 521px;
+    top: 83px;
+
+    font-family: 'Mako';
+    font-size: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    text-decoration-color: underline;
+
+    color: #000000;
+}
+.p4{
+    position: absolute;
+    width: 90px;
+    height: 17px;
+    left: 370px;
+    top: 110px;
+    
+    font-family: 'Mako';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+   
+    
+    text-decoration-line: underline;
+    
+    color: #000000;
+}
+.p5{
+    position: absolute;
+width: 395px;
+height: 21px;
+left: 482px;
+top: 110px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p6{
+    position: absolute;
+width: 101px;
+height: 17px;
+left: 370px;
+top: 136px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p7{
+    position: absolute;
+width: 66px;
+height: 21px;
+left: 482px;
+top: 134px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p8{
+    position: absolute;
+width: 41px;
+height: 17px;
+left: 370px;
+top: 160px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p9{
+    position: absolute;
+    width: 82px;
+    height: 21px;
+    left: 486px;
+    top: 160px;
+    
+    font-family: 'Mako';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+    
+    
+    text-decoration-line: underline;
+    
+    color: #000000; 
+}
+.p10{
+    position: absolute;
+width: 58px;
+height: 17px;
+left: 370px;
+top: 186px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+.p11{
+    position: absolute;
+width: 95px;
+height: 21px;
+left: 486px;
+top: 186px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p12{
+    position: absolute;
+width: 34px;
+height: 17px;
+left: 373px;
+top: 207px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p13{
+    position: absolute;
+width: 203px;
+height: 21px;
+left: 482px;
+top: 207px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p14{
+    position: absolute;
+width: 43px;
+height: 17px;
+left: 373px;
+top: 236px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p15{
+    position: absolute;
+width: 234px;
+height: 21px;
+left: 480px;
+top: 233px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+
+color: #000000;
+}
+.Line1{
+    position: absolute;
+width: 880px;
+height: 0px;
+left: 40px;
+top: 300px;
+
+border: 1px solid #000000;
+}
+.p16{
+    position: absolute;
+    width: 118px;
+    height: 21px;
+    left: 59px;
+    top: 327px;
+    
+    font-family: 'Mako';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21px;
+   
+    
+    text-decoration-line: underline;
+    
+    color: #000000;
+    
+    mix-blend-mode: darken; 
+}
+.p17{
+    position: absolute;
+width: 320px;
+height: 28px;
+left: 304px;
+top: 306px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-decoration-line: underline;
+
+color: #000000;
+
+mix-blend-mode: darken;
+}
+.p18{
+    position: absolute;
+width: 112px;
+height: 17px;
+left: 304px;
+top: 360px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p19{
+    position: absolute;
+width: 51px;
+height: 21px;
+left: 459px;
+top: 360px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p20{
+    position: absolute;
+width: 70px;
+height: 21px;
+left: 304px;
+top: 384px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p21{
+    position: absolute;
+width: 468px;
+height: 21px;
+left: 428px;
+top: 384px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p22{
+    position: absolute;
+width: 33px;
+height: 21px;
+left: 304px;
+top: 410px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+text-decoration-line: underline;
+
+color: #000000;
+}
+
+.p23{
+    position: absolute;
+width: 9px;
+height: 21px;
+left: 431px;
+top: 410px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.Line2{
+    position: absolute;
+width: 890px;
+height: 0px;
+left: 37px;
+top: 440px;
+
+border: 1px solid #000000;
+}
+.p24{
+    position: absolute;
+width: 115px;
+height: 21px;
+left: 59px;
+top: 453px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p25{
+    position: absolute;
+width: 197px;
+height: 21px;
+left: 304px;
+top: 453px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.Line3{
+    position: absolute;
+width: 890px;
+height: 0px;
+left: 40px;
+top: 510px;
+
+border: 1px solid #000000;
+}
+.p26{
+    position: absolute;
+width: 153px;
+height: 21px;
+left: 59px;
+top: 535px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+
+}
+.p27{
+    position: absolute;
+width: 597px;
+height: 21px;
+left: 300px;
+top: 535px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p28{
+    position: absolute;
+width: 277px;
+height: 21px;
+left: 47px;
+top: 633px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+
+
+text-decoration-line: underline;
+
+color: #000000;
+}
+.p29{
+    position: absolute;
+    width: 141px;
+    height: 17px;
+    left: 425px;
+    top: 633px;
+    
+    font-family: 'Mako';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 17px;
+   
+    
+    
+    color: #000000;
+}
+.p30{
+    position: absolute;
+width: 78px;
+height: 21px;
+left: 617px;
+top: 630px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #000000;
+}
+.p31{
+    position: absolute;
+width: 150px;
+height: 17px;
+left: 420px;
+top: 672px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 17px;
+color: #000000;
+}
+.p32{
+    position: absolute;
+width: 292px;
+height: 21px;
+left: 604px;
+top: 672px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+color: #000000;
+}
+.Line4{
+    position: absolute;
+width: 890px;
+height: 0px;
+left: 40px;
+top: 740px;
+
+border: 1px solid #000000;
+}
+.p33{
+    position: absolute;
+width: 239px;
+height: 21px;
+left: 47px;
+top: 762px;
+
+font-family: 'Mako';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 21px;
+text-decoration-line: underline;
+color: #000000;
+}
+.image2{
+    position: absolute;
+width: 483px;
+height: 150px;
+left: 387px;
+top: 752px;
+
+background: url("../images/ЯП.png");
+
+}
